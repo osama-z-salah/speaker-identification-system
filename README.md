@@ -1,5 +1,5 @@
 # speaker-identification-system
-In this work, a speaker identification system was developed using  Pitch and MFCC, for feature extraction, and KNN classifier, for feature matching. The system was implemented and designed using the MATLAB App Designer software. The system achieved an accuracy of 94%.
+#### In this work, a speaker identification system was developed using  Pitch and MFCC, for feature extraction, and KNN classifier, for feature matching. The system was implemented and designed using the MATLAB App Designer software. The system achieved an accuracy of 94%.
 # Outputs
 ### Training Results 
 ![image](https://user-images.githubusercontent.com/108317565/182386467-d356e0f3-8093-4734-9238-98e11c205dde.png)
